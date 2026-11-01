@@ -1,0 +1,6 @@
+{
+  "name": "استودیو تبدیل متن به گفتار و صداگذاری آموزشی",
+  "description": "تبدیل متن به گفتار با لهجه‌ها و لحن‌های متنوع زن و مرد، تنظیم سرعت و زیروبمی صدا، مناسب کلیپ‌های آموزشی با قابلیت دانلود فایل صوتی با کیفیت بالا و فرمت WAV",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
